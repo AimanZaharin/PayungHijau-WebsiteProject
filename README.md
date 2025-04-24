@@ -69,3 +69,11 @@ The Payung Hijau website is designed with a minimalist concept, offering simple,
 > “A place to fund energy and money for the greater good.”
 
 This project is my contribution to the conservation of Malaysian rainforests and the protection of native flora and fauna. I believe that change begins with individuals, and through this platform, I hope to inspire others to take part in preserving what’s left of our precious environment.
+
+---
+
+## 🛠 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/payung-hijau.git
