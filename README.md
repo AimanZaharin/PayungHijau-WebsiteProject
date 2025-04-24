@@ -15,7 +15,7 @@ With this project, I aim to:
 
 ---
 
-## 💻 Technologies Used
+## 💻 Tech Stacks Used
 
 This project was developed using the following technologies:
 
