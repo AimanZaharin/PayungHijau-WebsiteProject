@@ -76,4 +76,4 @@ This project is my contribution to the conservation of Malaysian rainforests and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/payung-hijau.git
+   git clone https://github.com/AimanZaharin/PayungHijau-WebsiteProject.git
