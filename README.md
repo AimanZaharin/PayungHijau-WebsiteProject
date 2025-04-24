@@ -19,6 +19,8 @@ With this project, I aim to:
 
 This project was developed using the following technologies:
 
+![Tech Stack Used](img/html5-css3-js-icon-set-web-development-logo-vector-29309315.jpg
+
 - **HTML5** – Structure and layout of the website.
 - **CSS3** – Styling and responsive design.
 - **JavaScript** – Interactivity and dynamic page elements.
