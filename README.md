@@ -45,14 +45,33 @@ Ultimately, this is both a **portfolio project** and a **passion project**, comb
 
 ## 🌐 Website Overview
 
-The Payung Hijau website is designed with a minimalist concept, offering simple, user-friendly navigation with clear and focused content. It features six main pages:
+**Payung Hijau** is a minimalist and user-friendly website designed to promote community engagement through clear navigation and focused content. It consists of six main pages:
 
-- **Home** – Displays the project's mission and current donation status to encourage community support.
-- **About Us** – Details the goals, ongoing activities, and motivations behind Payung Hijau.
-- **Join Us** – A form-based page for volunteers to sign up and get involved based on their location.
-- **Donation** – A secure and simple form that redirects donors to their preferred payment method.
-- **Projects** – Showcases the reforestation efforts, awareness campaigns, and collaborations.
-- **Socials** – Aggregates content from social media platforms to help amplify the cause and engage a broader audience.
+### 📄 Pages Overview
+
+- **Home**  
+  Displays the project's mission and current donation status to encourage community support.  
+  ![Home Page](assets/home.png)
+
+- **About Us**  
+  Details the goals, ongoing activities, and motivations behind Payung Hijau.  
+  ![About Us Page](assets/aboutUs.png)
+
+- **Join Us**  
+  A form-based page for volunteers to sign up and get involved based on their location.  
+  ![Join Us Page](assets/signUp.png)
+
+- **Donation**  
+  A secure and simple form that redirects donors to their preferred payment method.  
+  ![Donation Page](assets/donate.png)
+
+- **Projects**  
+  Showcases reforestation efforts, awareness campaigns, and collaborations.  
+  ![Projects Page](assets/descr.png)
+
+- **Socials**  
+  Aggregates content from social media platforms to amplify the cause and engage a broader audience.  
+  ![Socials Page](assets/cta.png)
 
 ---
 
