@@ -50,27 +50,33 @@ Ultimately, this is both a **portfolio project** and a **passion project**, comb
 ### 📄 Pages Overview
 
 - **Home**  
-  Displays the project's mission and current donation status to encourage community support.  
+  Displays the project's mission and current donation status to encourage community support.
+  <br>
   ![Home Page](assets/home.png)
 
 - **About Us**  
-  Details the goals, ongoing activities, and motivations behind Payung Hijau.  
+  Details the goals, ongoing activities, and motivations behind Payung Hijau.
+  <br>
   ![About Us Page](assets/aboutUs.png)
 
 - **Join Us**  
-  A form-based page for volunteers to sign up and get involved based on their location.  
+  A form-based page for volunteers to sign up and get involved based on their location.
+  <br>
   ![Join Us Page](assets/signUp.png)
 
 - **Donation**  
-  A secure and simple form that redirects donors to their preferred payment method.  
+  A secure and simple form that redirects donors to their preferred payment method.
+  <br>
   ![Donation Page](assets/donate.png)
 
 - **Projects**  
-  Showcases reforestation efforts, awareness campaigns, and collaborations.  
+  Showcases reforestation efforts, awareness campaigns, and collaborations.
+  <br>
   ![Projects Page](assets/descr.png)
 
 - **Socials**  
-  Aggregates content from social media platforms to amplify the cause and engage a broader audience.  
+  Aggregates content from social media platforms to amplify the cause and engage a broader audience.
+  <br>
   ![Socials Page](assets/cta.png)
 
 ---
