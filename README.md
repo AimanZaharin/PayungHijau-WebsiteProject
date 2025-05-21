@@ -1,10 +1,10 @@
-# 🌿 Payung Hijau - First Website Project
+# Payung Hijau - First Website Project
 
 **Payung Hijau** is a personal initiative I started to support environmental conservation efforts in Malaysia. As a non-profit concept project, the main mission of Payung Hijau is to **restore deforested and logged areas** across the country and raise awareness about the importance of protecting our biodiversity. This project is inspired by the **15th Sustainable Development Goal (SDG): Life On Land**, with a focus on safeguarding the remaining natural landscapes and wildlife of Malaysia.
 
 ---
 
-## 🧭 Project Purpose
+## Project Purpose
 
 With this project, I aim to:
 
@@ -15,7 +15,7 @@ With this project, I aim to:
 
 ---
 
-## 💻 Tech Stacks Used
+## Tech Stacks Used
 
 This project was developed using the following technologies:
 
@@ -29,7 +29,7 @@ The goal was to build a minimalist yet functional website using core front-end t
 
 ---
 
-## 🧠 Personal Development
+## Personal Development
 
 This project was built as part of my **personal upskilling journey**. I'm constantly exploring ways to improve my abilities in front-end web development, design thinking, and building purpose-driven platforms.
 
@@ -43,11 +43,11 @@ Ultimately, this is both a **portfolio project** and a **passion project**, comb
 
 ---
 
-## 🌐 Website Overview
+## Website Overview
 
 **Payung Hijau** is a minimalist and user-friendly website designed to promote community engagement through clear navigation and focused content. It consists of six main pages:
 
-### 📄 Pages Overview
+### Pages Overview
 
 - **Home**  
   Displays the project's mission and current donation status to encourage community support.  
@@ -82,7 +82,7 @@ Ultimately, this is both a **portfolio project** and a **passion project**, comb
 
 ---
 
-## 🎨 Design & Aesthetics
+## Design & Aesthetics
 
 - **Font**: Poppins for a modern and clean feel.
 - **Color Palette**: Soothing tones of white, green, and brown to reflect the natural environment.
@@ -90,7 +90,7 @@ Ultimately, this is both a **portfolio project** and a **passion project**, comb
 
 ---
 
-## ✨ Vision
+## Vision
 
 > “A place to fund energy and money for the greater good.”
 
@@ -98,7 +98,7 @@ This project is my contribution to the conservation of Malaysian rainforests and
 
 ---
 
-## 🛠 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
